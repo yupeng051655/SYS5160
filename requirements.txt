@@ -1,0 +1,6 @@
+Django==2.0
+numpy==1.11.0
+pandas==0.22.0
+scikit-image==0.13.1
+scikit-learn==0.19.1
+scipy==1.0.0
