@@ -13,5 +13,10 @@ Configuration:
 	- python manage.py runserver
 
 
+The project implement data mining and machine learning to develop recommendation system using content-based filtering and collaborate filtering.
+
+1. Data preprocessing 
+In the data clearning, the RS converts all letters into lower cases. It removes punctuations from each chunk and tokenized the documents to remove stopwords. We relied on the ‘nltk’ library to identify stopwords. In addition, we do lemmatization to transform words into their baseform according to the intended meaning and context surrounding that sentence.
+
 
 
